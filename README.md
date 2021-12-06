@@ -9,13 +9,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 👯 I’m looking for a software development internship. 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  
- 
-- 🌐 &nbsp;
-
   ![Cardify](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Cjavascript%2Creact%2Ccplusplus%2Cmysql%2Cfirebase%2Cgit%2Cgithub%2Cvisualstudiocode&preset=dark&shadow=true&width=100) 
-- ⚙️ &nbsp;
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
