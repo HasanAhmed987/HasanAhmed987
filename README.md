@@ -11,11 +11,10 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - 💻 &nbsp;
   
-  ![C/C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
  
 - 🌐 &nbsp;
 
-  ![Cardify](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Cjavascript%2Creact%2Cmysql%2Cfirebase%2Cgit%2Cgithub%2Cvisualstudiocode&preset=dark&shadow=true&width=100) 
+  ![Cardify](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Cjavascript%2Creact%2Ccplusplus%2Cmysql%2Cfirebase%2Cgit%2Cgithub%2Cvisualstudiocode&preset=dark&shadow=true&width=100) 
 - ⚙️ &nbsp;
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
