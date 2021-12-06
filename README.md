@@ -11,8 +11,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 
   ![Cardify](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Cjavascript%2Creact%2Ccplusplus%2Cmysql%2Cfirebase%2Cgit%2Cgithub%2Cvisualstudiocode&preset=dark&shadow=true&width=100) 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://api.whatsapp.com/send?phone=923090535208"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</p>
