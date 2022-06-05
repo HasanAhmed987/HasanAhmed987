@@ -10,5 +10,3 @@ I'm a computer science student who is passionate about writing code, solving pro
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
   ![Cardify](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Cjavascript%2Creact%2Ccplusplus%2Cmysql%2Cfirebase%2Cgit%2Cgithub%2Cvisualstudiocode&preset=dark&shadow=true&width=100) 
-
-
